@@ -25,8 +25,9 @@ Por ejemplo Bazzite aunque viene ya preconfigurado con todo lo necesario para tr
 <img src="https://cdn-icons-png.flaticon.com/512/3756/3756712.png" width="25" height="25">Actualmente a 21/07/2025 existe un problema con estos sistemas operativos para nuestras placas y es el uso de Kernel 6.15 el cual a metido incompatibilidades para nuestro hardware, por ello, siempre deberemos buscar una versión a usar que lleve el último kernel funciona 6.14. Se prevee que la publicación del Kernel 6.16 para finales de Julio o inicios de Agosto
 
 ## ArchLinux
-* https://archlinux.org/download/ -> Página oficial de donde obtener información especifica y descargar las versiones más recientes
-* https://archive.archlinux.org/iso/2025.06.01/ -> ISO de la última versión funcional para la BC-250 con Kernel 6.14
-* https://github.com/eabarriosTGC/Instalacion-de-Arch-para-la-Placa-BC-250-AMD -> Guía instalación de Archlinux especifica para nuestra placa (si no se selecciona Canará y UUSS como mirrors, en el siguiente paso te fallará al no encontrar repositorios compatibles)
-* https://github.com/eabarriosTGC/BC250--ARCH -> Script especifico de configuración de ArchLinux para BC-250 que incluye el Governor entre otros
-* https://github.com/shahnawazshahin/steam-using-gamescope-guide -> Configuración para visualización modo GAME de SteamDeck
+* [Página oficial de donde obtener información especifica y descargar las versiones más recientes](https://archlinux.org/download/)
+* [ISO de la última versión funcional para la BC-250 con Kernel 6.14](https://archive.archlinux.org/iso/2025.06.01/)
+* [Guía instalación de Archlinux especifica para nuestra placa (si no se selecciona Canará y UUSS como mirrors, en el siguiente paso te fallará al no encontrar repositorios compatibles)](https://github.com/eabarriosTGC/Instalacion-de-Arch-para-la-Placa-BC-250-AMD)
+* [Script especifico de configuración de ArchLinux para BC-250 que incluye el Governor entre otros](https://github.com/eabarriosTGC/BC250--ARCH)
+* [Configuración para visualización modo GAME de SteamDeck](https://github.com/shahnawazshahin/steam-using-gamescope-guide)
+* [Optimizar cualquier juengo en ARCH Linux](https://www.youtube.com/watch?v=NOw3TPgxXYQ&ab_channel=Pingu)
