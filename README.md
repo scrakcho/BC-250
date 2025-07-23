@@ -27,7 +27,7 @@ Por ejemplo Bazzite aunque viene ya preconfigurado con todo lo necesario para tr
 ## ArchLinux
 * [Página oficial de donde obtener información especifica y descargar las versiones más recientes](https://archlinux.org/download/)
 * [ISO de la última versión funcional para la BC-250 con Kernel 6.14](https://archive.archlinux.org/iso/2025.06.01/)
-* [Guía instalación de Archlinux especifica para nuestra placa (si no se selecciona Canará y UUSS como mirrors, en el siguiente paso te fallará al no encontrar repositorios compatibles)](https://github.com/eabarriosTGC/Instalacion-de-Arch-para-la-Placa-BC-250-AMD)
+* [Guía instalación de Archlinux especifica para nuestra placa](https://github.com/eabarriosTGC/Instalacion-de-Arch-para-la-Placa-BC-250-AMD)  (si no se selecciona Canadá y UUSS como mirrors, en el siguiente paso te fallará al no encontrar repositorios compatibles)
 * [Script especifico de configuración de ArchLinux para BC-250 que incluye el Governor entre otros](https://github.com/eabarriosTGC/BC250--ARCH)
 * [Configuración para visualización modo GAME de SteamDeck](https://github.com/shahnawazshahin/steam-using-gamescope-guide)
 * [Optimizar cualquier juengo en ARCH Linux](https://www.youtube.com/watch?v=NOw3TPgxXYQ&ab_channel=Pingu)
