@@ -4,7 +4,7 @@ Este repositorio ofrece información centralizada sobre el uso de esta placa.
 El objetivo es brindar los datos necesarios para lograr exprimir este hardware de mineria y explotarlo para el uso Gaming.
 Agradecimientos y gracias a cada una de las fuentes referidas en este documento.
 
-## Información General
+## Información General THANKS to mothenjoyer69
 [BC250-documentation](https://github.com/mothenjoyer69/bc250-documentation) -> Repositorio con toda la información general sobre este hardware. 
 
 ## Indice
