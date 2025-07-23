@@ -9,16 +9,14 @@ Agradecimientos y gracias a cada una de las fuentes referidas en este documento.
 
 ## Indice
 El desglose del índice que contiene esta página es el siguiente:
-* [HARDWARE](https://github.com/scrakcho/BC-250/edit/main/README.md/#HARDWARE)
-* [BIOS](https://github.com/scrakcho/BC-250/edit/main/README.md/#BIOS)
-* [SistemasOperativos](https://github.com/scrakcho/BC-250/edit/main/README.md/#SistemasOperativos)
-* [ArchLinux](https://github.com/scrakcho/BC-250/edit/main/README.md/#ArchLinux)
+* [HARDWARE](https://github.com/scrakcho/BC-250/README.md/#HARDWARE)
+* [BIOS](https://github.com/scrakcho/BC-250/bios/Readme.md)
+* [SistemasOperativos](https://github.com/scrakcho/BC-250/README.md/#SistemasOperativos)
+* [ArchLinux](https://github.com/scrakcho/BC-250/README.md/#ArchLinux)
+* [Rendimiento](https://github.com/scrakcho/BC-250/evidences/Readme.md)
 
 ## HARDWARE
 
-
-
-## BIOS
 
 ## SistemasOperativos
 Actualmente los SO más comunes son Fedora 42, Bazzite y ArchLinux teniendo cada uno de ellos sus pros y contras.
