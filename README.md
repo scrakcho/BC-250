@@ -17,6 +17,8 @@ El desglose del índice que contiene esta página es el siguiente:
 
 ## HARDWARE
 
+Se requiere como minimo una fuente de poder que entregue 220 watts en la linea de 12V aunque se recomienda como minimo de 300w para no forzarla y ocasionar reinicios que acorten la vida util de la placa. El conector es un PCI de GPU 8pin con 3 lineas de 12v y 5 GND.
+Peligro al uso de adaptadores o soldaduras caseras de mala calidad.
 
 ## SistemasOperativos
 Actualmente los SO más comunes son Fedora 42, Bazzite y ArchLinux teniendo cada uno de ellos sus pros y contras.
