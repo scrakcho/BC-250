@@ -30,7 +30,9 @@ Por ejemplo Bazzite aunque viene ya preconfigurado con todo lo necesario para tr
 
 ## ArchLinux
 * [Página oficial de donde obtener información especifica y descargar las versiones más recientes](https://archlinux.org/download/) / [Listado ISOs](https://archive.archlinux.org/iso/)
-* [Guía instalación de Archlinux especifica para nuestra placa](https://github.com/eabarriosTGC/Instalacion-de-Arch-para-la-Placa-BC-250-AMD)  (si no se selecciona Canadá y UUSS como mirrors, en el siguiente paso te fallará al no encontrar repositorios compatibles)
+* [Guía instalación de Archlinux especifica para nuestra placa](https://github.com/eabarriosTGC/Instalacion-de-Arch-para-la-Placa-BC-250-AMD)
+  - si no seleccionas mirrors Canadá y UUSS, en el siguiente paso te fallará al no encontrar los repositorios necesarios
+  - Si deseas automatizarlo, habilita el Bluetooth de inicio
 * [Script especifico de configuración de ArchLinux para BC-250 que incluye el Governor entre otros](https://github.com/eabarriosTGC/BC250--ARCH)
 * [GPU frequency range kernel patch](https://github.com/scrakcho/BC-250/blob/main/kernel/Readme.md)
 * [Visor Temperaturas](https://github.com/scrakcho/BC-250/blob/main/configuration/Temp_Readme.md)
