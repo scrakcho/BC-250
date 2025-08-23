@@ -2,16 +2,14 @@ Primero instalamos Gnome Tweaks:
 
 ```
 sudo pacman -S gnome-tweaks
+sudo pacman -S gnome-tweaks-extensions
 ```
 
-Lo abrimos
-```
-gnome-tweaks
-```
+Instalamos el plugin Freon (https://github.com/UshakovVasilii/gnome-shell-extension-freon/wiki) dandole al botón azul que pone INSTALL.
 
-Reiniciamos el navegador
+Si sale una viso de que no dispone de aplicación para su manejo, dele a buscar e instale "x-scheme-handler/gnome-extensions" (Gestor de extensiones)
 
-Instalamos el plugin Freon (https://github.com/UshakovVasilii/gnome-shell-extension-freon/wiki)
+Reinicie!
 
 Cuando se integre, verás algo similar a esto en la barra superior:
 
