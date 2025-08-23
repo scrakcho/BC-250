@@ -6,7 +6,7 @@ Se necesita instalar los drivers:
 
 ```
 git clone https://aur.archlinux.org/aic8800d80-dkms.git
-cd rtl8851bu-dkms-git/
+cd aic8800d80-dkms/
 makepkg -si
 ```
 
