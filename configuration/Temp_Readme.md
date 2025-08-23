@@ -1,6 +1,7 @@
 Primero instalamos Gnome Tweaks:
 
 ```
+sudo pacman -S lm_sensors
 sudo pacman -S gnome-tweaks
 sudo pacman -S gnome-tweaks-extensions
 ```
