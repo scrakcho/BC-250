@@ -8,9 +8,9 @@ sudo pacman -S gnome-tweaks-extensions
 
 Instalamos el plugin Freon (https://github.com/UshakovVasilii/gnome-shell-extension-freon/wiki) dandole al botón azul que pone INSTALL.
 
-Si sale una viso de que no dispone de aplicación para su manejo, dele a buscar e instale "x-scheme-handler/gnome-extensions" (Gestor de extensiones)
+Si sale una viso de que no dispone de aplicación para su manejo, dele a buscar e instale "x-scheme-handler/gnome-extensions" (Gestor de extensiones).
 
-Reinicie!
+Ahora abra Extensiones y habilite Freon.
 
 Cuando se integre, verás algo similar a esto en la barra superior:
 
