@@ -15,3 +15,8 @@
 * (9) El reinicio automático indica la finalización de la actualización.
 
 (!) Quizás necesite borrar la CMOS sin batería.
+
+* (10) Una vez con la Bios 3.0 Custom, configurar la memoria como se muestra a continuación para que se automática su gestión y las 16GB se puedan usar para la GPU
+
+ ![](./IMG_20250826_084608_581~2.jpg)
+
