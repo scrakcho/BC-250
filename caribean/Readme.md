@@ -34,7 +34,7 @@ Además ofrece la posibilidad de usar tus lanzadores de terceros preferidos como
 
 Para instalarlo:
 ```
-sudo pacman -S mangohud
+sudo pacman -S mangohud lib32-mangohud gamescope
 ```
 
 Para testearlo:
@@ -43,5 +43,8 @@ mangohud glxgears
 mangohud vkcube
 ```
 
-Para hacer que los juegos de Steam lo incluyan basta con meter el código "mangohud %command%" dentro de las LAUNCH OPTIONS:
+Para hacer que los juegos de Steam con PortProton lo incluyan basta con abrilos una vez con PortProton, activar ManoHud guardando la configuracion y posteriormente en Steam meter el código "mangohud %command%" dentro de las LAUNCH OPTIONS:
 
+![PortProtonGame](Captura\ desde\ 2025-08-26\ 10-07-42.png)
+
+![SteamGame](Captura\ desde\ 2025-08-26\ 10-58-05.png)
