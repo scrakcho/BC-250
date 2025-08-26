@@ -45,6 +45,6 @@ mangohud vkcube
 
 Para hacer que los juegos de Steam con PortProton lo incluyan basta con abrilos una vez con PortProton, activar ManoHud guardando la configuracion y posteriormente en Steam meter el código "mangohud %command%" dentro de las LAUNCH OPTIONS:
 
-![PortProtonGame](Captura\ desde\ 2025-08-26\ 10-07-42.png)
+![PortProtonGame](./Captura%20desde%202025-08-26%2010-58-05.png)
 
-![SteamGame](Captura\ desde\ 2025-08-26\ 10-58-05.png)
+![SteamGame](./Captura%20desde%202025-08-26%2010-07-42.png)
