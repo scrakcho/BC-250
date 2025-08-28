@@ -48,3 +48,15 @@ Para hacer que los juegos de Steam con PortProton lo incluyan basta con abrilos 
 ![PortProtonGame](./Captura%20desde%202025-08-26%2010-58-05.png)
 
 ![SteamGame](./Captura%20desde%202025-08-26%2010-07-42.png)
+
+
+### Copiar juegos desde HDD Externo
+
+Seguramente tus discos externos estén en NTFS, por lo que el sistema NO los podrá leer. Necesitamos "montar" el disco indicandole el formato:
+
+```
+sudo apt-get install ntfs-3g
+sudo mkdir /mnt/ntfs
+sudo mount -t ntfs-3g /dev/[sda1 | sdb1 | ...el disco que sea en tu caso] /mnt/ntfs
+cp -r /mnt/ntfs/[carpeta del juego] ~/GAMES
+```
