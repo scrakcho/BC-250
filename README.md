@@ -43,5 +43,6 @@ Por ejemplo Bazzite aunque viene ya preconfigurado con todo lo necesario para tr
 Para clonar discos en linux ArchLinux sería tan sencillo como:
 
 ```
+lsblk
 sudo dd if=/dev/nvme0n1 of=/dev/sda bs=4M status=progress
 ```
