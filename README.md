@@ -38,3 +38,10 @@ Por ejemplo Bazzite aunque viene ya preconfigurado con todo lo necesario para tr
 * [Visor Temperaturas](https://github.com/scrakcho/BC-250/blob/main/configuration/Temp_Readme.md)
 * [Configuración para visualización modo GAME de SteamDeck](https://github.com/shahnawazshahin/steam-using-gamescope-guide)
 * [Optimizar cualquier juengo en ARCH Linux](https://www.youtube.com/watch?v=NOw3TPgxXYQ&ab_channel=Pingu)
+
+## Clonado de discos
+Para clonar discos en linux ArchLinux sería tan sencillo como:
+
+```
+sudo dd if=/dev/nvme0n1 of=/dev/sda bs=4M status=progress
+```
