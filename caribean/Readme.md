@@ -27,6 +27,23 @@ makepkg -sci
 Una vez instalado, basta con ejecutar el .EXE indicandole que se desea lanzar con PortProtón. Posteriormente incluso te permite añadirlo al escritorio o a la libreria de juegos de Steam.
 Además ofrece la posibilidad de usar tus lanzadores de terceros preferidos como Epic.
 
+### HydraLauncher
+
+Lanzador, buscador y biblioteca de descargas para juegos caribeños.
+
+![HydraLauncher](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.JgONt0WMOsIdIYapH4UyqQHaDh%3Fpid%3DApi&f=1&ipt=51a5bf862dd9eab0afedf167b7d481d72399a77d7371e6cc4bc340b84f48f6e9&ipo=images)
+
+```
+git clone https://aur.archlinux.org/hydra-launcher-bin.git
+
+cd hydra-launcher-bin
+
+makepkg -sci
+```
+
+Una vez se tenga instalado hay que añadirle origenes donde buscará resultados y obtendrá torrents.
+
+Para eso accederemos a https://library.hydra.wiki/library y daremos "copy" sobre las librerias deseadas pegandolas posteriormente en la sección de 'Ajustes > Fuentes de descargas' dentro de HydraLauncher.
 
 ### MANGOHUD
 
