@@ -48,3 +48,12 @@ Para clonar discos en linux ArchLinux sería tan sencillo como:
 lsblk
 sudo dd if=/dev/nvme0n1 of=/dev/sda bs=4M status=progress
 ```
+
+## Soporte IA WARP
+Para subsanar problemas con la distribución lo más sencillo es usar una consola que incorpora IA.
+
+```
+git clone https://aur.archlinux.org/warp-terminal-bin.git
+cd warp-terminal-bin
+makepkg -si
+```
