@@ -7,8 +7,10 @@ Agradecimientos y gracias a cada una de las fuentes referidas en este documento.
 <img src="https://cdn-icons-png.flaticon.com/512/3756/3756712.png" width="25" height="25"> En construcción
 
 
-## Información General THANKS to mothenjoyer69
-[BC250-documentation](https://github.com/mothenjoyer69/bc250-documentation) -> Repositorio con toda la información general sobre este hardware. 
+## Información General THANKS to mothenjoyer69 & elektricm
+[BC250-full-documentation](https://elektricm.github.io/amd-bc250-docs/) -> Repositorio super completo con TODA la información sobre esta placa. 
+
+[BC250-hardware-documentation](https://github.com/mothenjoyer69/bc250-documentation) -> Repositorio original sobre información de hardware. 
 
 ## Indice
 El desglose del índice que contiene esta página es el siguiente:
