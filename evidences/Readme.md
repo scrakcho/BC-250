@@ -2,8 +2,8 @@ Listado de juegos probados en esta placa BC-250:
 
 * Listado especial SteamOS a 1080p
 
-  ![](https://markdown-videos-api.jorgenkh.no/youtube/rXpZfAo2fsM?si=Qj9O1m09AKY9xaoQ)
-  ![video aquí](https://youtu.be/rXpZfAo2fsM?si=Qj9O1m09AKY9xaoQ)
+  [![Full video](https://img.youtube.com/vi/rXpZfAo2fsM?si=Qj9O1m09AKY9xaoQ/0.jpg)](https://youtu.be/v=rXpZfAo2fsM?si=Qj9O1m09AKY9xaoQ)
+  [![](https://markdown-videos-api.jorgenkh.no/youtube/rXpZfAo2fsM?si=Qj9O1m09AKY9xaoQ)](https://youtu.be/rXpZfAo2fsM?si=Qj9O1m09AKY9xaoQ)
 
 * CrashBandicot
   
