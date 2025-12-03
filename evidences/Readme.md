@@ -3,18 +3,22 @@ Listado de juegos probados en esta placa BC-250:
 * Listado especial SteamOS a 1080p
 
   ![](https://markdown-videos-api.jorgenkh.no/youtube/rXpZfAo2fsM?si=Qj9O1m09AKY9xaoQ)
+  ![video aquí](https://youtu.be/rXpZfAo2fsM?si=Qj9O1m09AKY9xaoQ)
 
 * CrashBandicot
   
   ![](https://markdown-videos-api.jorgenkh.no/youtube/l5tiLSw3z0c)
+  ![video aquí](https://youtu.be/l5tiLSw3z0c)
 
 * Cyberpunk
   
   ![](https://markdown-videos-api.jorgenkh.no/youtube/_UZY_1FSHdM)
+  ![video aquí](https://youtu.be/_UZY_1FSHdM)
 
 * RedDeadRedeption2
   
   ![](https://markdown-videos-api.jorgenkh.no/youtube/I6FxbqSMcEw?si=n0zqYjQSeJEFafdV)
+  ![video aquí](https://youtu.be/I6FxbqSMcEw?si=n0zqYjQSeJEFafdV)
 
 * DevilMacry
   
