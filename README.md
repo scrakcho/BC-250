@@ -25,6 +25,8 @@ El desglose del índice que contiene esta página es el siguiente:
 Se requiere como minimo una fuente de poder que entregue 220 watts en la linea de 12V aunque se recomienda como minimo de 300w para no forzarla y ocasionar reinicios que acorten la vida util de la placa. El conector es un PCI de GPU 8pin con 3 lineas de 12v y 5 GND.
 Peligro al uso de adaptadores o soldaduras caseras de mala calidad.
 
+<img src="https://github.com/scrakcho/BC-250/blob/main/image_b8745322.jpg" width="250" height="250">
+
 ## SistemasOperativos
 Actualmente los SO más comunes son Fedora 42, Bazzite y ArchLinux teniendo cada uno de ellos sus pros y contras.
 Por ejemplo Bazzite aunque viene ya preconfigurado con todo lo necesario para tratarse como una "SteamDeck" no es nada personalizable y el uso de RAM en reposo es Moderado, por otro lado Fedora aunque es versatil no ofrece nada destacable respecto al resto y por último Archlinux, en principio, aunque requiere configuración manual se puede lograr un rendimiento mayor al resto.
